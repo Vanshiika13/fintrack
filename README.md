@@ -1,8 +1,8 @@
-# FinTrack – Expense Tracker 💸
+# fintrack 💸
 
 ## Overview
 
-FinTrack is a full-stack web application that helps users manage and track their daily expenses in an organized way.
+fintrack is a full-stack web application that helps users manage and track their daily expenses in an organized way.
 
 ---
 
